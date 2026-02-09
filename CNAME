@@ -1,1 +1,6 @@
-spf.utah.gov
+spf.utah.gov. CNAME wp.wpenginepowered.com
+www.spf.utah.gov. CNAME wp.wpenginepowered.com
+spf.utah.gov. AAAA wp.wpenginepowered.com 141.193.213.10
+spf.utah.gov. AAAA wp.wpenginepowered.com 141.193.213.11
+www.spf.utah.gov. AAAA wp.wpenginepowered.com 141.193.213.10
+www.spf.utah.gov. AAAA wp.wpenginepowered.com 141.193.213.11
